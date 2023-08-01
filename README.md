@@ -4,6 +4,7 @@ This project is my solution to the task of constructing a prototype lift control
 The project is a C# Console application.
 
 ## Usage
+The program is designed for and should be run in the Console/Terminal.
 - When inputting the filepaths as arguments input as follows:
 
       Path\LiftPrototype.exe "input.csv" "output.csv"
