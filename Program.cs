@@ -39,9 +39,6 @@ namespace LiftPrototype
         {
             // get the input and output filepaths
             GetFilepaths(args);
-            // TODO remove
-            //input_filepath = @"E:\Documents\Job Aplications\AVAMAE\Stage 3\Cloud Software Engineer Coding Exercise Data.csv";
-            //output_filepath = @"E:\Documents\Job Aplications\AVAMAE\Stage 3\output.csv";
 
             // process the csv into a list of structs sorted by time
             ParseCsvData();
